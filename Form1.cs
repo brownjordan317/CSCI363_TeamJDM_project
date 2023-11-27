@@ -49,5 +49,10 @@ namespace CSCI363_TeamJDM_project
         {
             sidebarTimer.Start();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
